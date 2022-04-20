@@ -1,0 +1,47 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header, footer{
+    background-color:#E83E8C;
+}
+img {
+    width:100%;
+}
+h1 , h2 , h3, h4 , h5 , h6 {
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
+.navbar-brand {
+    width: 180px;
+}
+.logo-footer{
+    width: 53px;
+}
+.mediosdepago {
+    background-color: #17a288;
+}
+
+.mediosdepago p {
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.fa-brands {
+    width: 60px !important;
+
+   
+} 
+#container-rosado
+{width: 1280px;
+    height: 170px;
+    
+}
+
+
+
+

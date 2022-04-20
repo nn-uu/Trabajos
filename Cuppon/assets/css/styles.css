@@ -1,0 +1,36 @@
+*{  font-family: "roboto", "sans-serif"
+ 
+}
+/*  SELECTOR POR CLASE*/
+.miFormulario{
+  background-color: #28A745;
+  color: white;
+  
+}
+.cardtext p {
+  font-weight: 300;
+  
+}
+.precio1 p {
+  font-weight: 300;
+}
+/*SELECTOR POR ID */
+#tituloFooter{
+  text-align: center;
+  Font-size: 30px;
+  font-weight: bolder;
+  margin-top: 20px;
+}
+.derechos{
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: larger;
+  color:gray;
+}
+.plumones  {
+  font-weight: 100;
+}
+i{
+  font-size: xx-small;
+}
